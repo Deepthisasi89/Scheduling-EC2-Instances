@@ -3,7 +3,7 @@
 
 In the ever-evolving world of cloud computing, optimizing resources and reducing operational costs remain paramount goals for organizations of all sizes. One particularly effective strategy to achieve this is the automation of EC2 instance start and stop schedules. Imagine a scenario where your Amazon Web Services (AWS) EC2 instances automatically power down during off-hours, weekends, or holidays, only to spring back to life exactly when you need them.  In this blog, we delve into the art of time-based EC2 instance scheduling, exploring how it not only curtails unnecessary expenses but also streamlines your cloud operations, ultimately putting you in control of your AWS bills like never before. 
 
-
+<img src="image.webp"/>
 ## Step-by-Step Guide
 Follow these steps to schedule your EC2-innstances for off hours:
 
